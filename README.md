@@ -6,7 +6,7 @@ ______________________________________________________________________
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 <a href="https://hydra.cc/"><img alt="Config: Hydra" src="https://img.shields.io/badge/Config-Hydra-89b8cd"></a>
-[![Paper](http://img.shields.io/badge/paper-DOI: 10.2139/ssrn.5243065.svg)](https://www.researchgate.net/publication/391500184_Rt-Icenet_A_Lightweight_Neural_Network_of_Sea_Ice_Segmentation_for_Onboard_Camera_Images)
+[![Paper](http://img.shields.io/badge/paper.svg)](https://www.researchgate.net/publication/391500184_Rt-Icenet_A_Lightweight_Neural_Network_of_Sea_Ice_Segmentation_for_Onboard_Camera_Images)
 [![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://www.polarannual.com/sy)
 
 </div>
