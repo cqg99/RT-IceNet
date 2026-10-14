@@ -13,7 +13,7 @@ ______________________________________________________________________
 
 ## Description
 
-code is coming soon
+
 
 ## Installation
 
@@ -47,17 +47,5 @@ conda env create -f environment.yaml -n myenv
 
 # activate conda environment
 conda activate myenv
-```
-
-## How to run
-
-Train and test model with default configuration
-
-```bash
-# train on GPU
-python train.py
-
-# test on GPU
-python get_miou.py
 ```
 
